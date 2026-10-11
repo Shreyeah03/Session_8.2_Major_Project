@@ -7,7 +7,7 @@ and a Bootstrap 5 + Fetch API frontend. Each user sees only their own tasks.
 
 ```bash
 python -m venv venv
-source venv/bin/activate          # Windows: venv\Scripts\activate
+source venv/bin/activate         
 pip install -r requirements.txt
 
 # 1. Create the MySQL database
